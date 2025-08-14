@@ -680,7 +680,7 @@ function App() {
                             <div>← - left</div>
                             <div>→ - right</div>
                             <div>↓ - down</div>
-                            <div><a href="https://www.marcuschiu.com/tinkering/2025-08-11/">How it's Coded</a></div>
+                            <div><a href="https://www.marcuschiu.com/tinkering/2025-08-14/">How it's Coded</a></div>
                             <div>VERSIONS</div>
                             <div><a href="https://tetris.marcuschiu.com">Canvas</a></div>
                             <div><a href="https://tetris-text.marcuschiu.com">Text</a></div>
