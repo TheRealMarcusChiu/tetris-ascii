@@ -1,0 +1,54 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.code-block {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    background: var(--code-bg);
+    color: var(--code-fg);
+    overflow: auto;           /* scroll if wide/tall */
+    white-space: pre;         /* keep formatting */
+    tab-size: 2;              /* adjust as you like */
+}
+
+.small {
+    margin-top: 20px;
+    font-size: .60rem;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.flex-container-outer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.board {
+    border: 1px solid black;
+}
+
+.flex-container-score {
+    width: 150px;
+    display: flex;
+    justify-content: space-between; /* Distributes items with space between them */
+    align-items: center;
+}
+
+.next-three {
+    margin-top: 20px;
+}
+
+.side {
+    margin: 20px;
+}
