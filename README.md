@@ -1,4 +1,4 @@
-tetris demo: https://tetris-text-two.marcuschiu.com/
+tetris demo: https://tetris-ascii.marcuschiu.com/
 
 # React + Vite
 
