@@ -1,4 +1,4 @@
-tetris demo: https://tetris-ascii.marcuschiu.com/
+tetris demo: https://git.marcuschiu.com/tetris-ascii/
 
 # React + Vite
 
